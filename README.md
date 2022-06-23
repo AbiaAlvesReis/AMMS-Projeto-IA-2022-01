@@ -48,4 +48,7 @@ Veja mais em: https://brasilescola.uol.com.br/matematica/chances-ganhar-na-mega-
 -Base de dados
 https://loterias.caixa.gov.br/Paginas/Download-Resultados.aspx
 
+Python
+https://www.tensorflow.org/tutorials/structured_data/time_series
+
 
