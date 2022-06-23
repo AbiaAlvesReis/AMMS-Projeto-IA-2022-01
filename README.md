@@ -11,9 +11,9 @@ menores números mais sorteados, e maiores números mais sorteados.
 Identicou-se que Número 10, e 53 são os números que mais se destacam.
 
 
-Com os outros modelos, o treinamento pode ser possível, mas não se tem resultado esperado, que, seria 
+Com os outros modelos, o treinamento pode ser possível, mas não se tem o resultado esperado, que, seria 
 de prever números futuros do Sorteio da Mega-Sena.
-A base de dados, contém um número baixo de sorteios , e está longe da apróximixade da probabilidade de um ganhador
+A base de dados, contém um número baixo de sorteios , e está longe da apróximidade da probabilidade de um ganhador
 que é de "1 chance em 50.063.860"
 
 Ao fazer comparações de resultados de sorteios, com os resultados dos modelos,
