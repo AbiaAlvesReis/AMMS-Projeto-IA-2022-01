@@ -47,8 +47,14 @@ Outra observação, durante este projeto, foi que:
 Veja mais em: https://brasilescola.uol.com.br/matematica/chances-ganhar-na-mega-sena.htm
 -Base de dados
 https://loterias.caixa.gov.br/Paginas/Download-Resultados.aspx
+Simulador(tem quantidade limitada de uso por dia)
+https://www.mazusoft.com.br/mega/confere.php
 
 Python
 https://www.tensorflow.org/tutorials/structured_data/time_series
+https://www.comoganharnaloteria.com.br/forum/topico/30164-planilha-_-regress%C3%A3o-linear-na-quina/
+https://github.com/VJ-Duardo/NaiveBayesLottery
+https://github.com/engineer1982/Machine-Learning-Lottery-Prediction
+https://medium.com/@polanitzer/how-to-guess-accurately-3-lottery-numbers-out-of-6-using-lstm-model-e148d1c632d6
 
 
