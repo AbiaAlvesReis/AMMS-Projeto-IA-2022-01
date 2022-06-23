@@ -24,7 +24,7 @@ para se obter o resultado, ainda assim estaria longe da probabilidade real que �
 Todos os testes, foram feitos, com dados históricos da Mega-Sena.
 Foi gerados números aleatórios (randomizado Python), mas chegamos a conclusão, que o 
 ideal seria a base de dados de aposta, para comparação mas não há disponível, e estas apostas 
-teria uma realidade e uma quantidade muito maior de dados, 
+teria uma realidade e uma quantidade muito maior de dados.
 
 Os fatores externos, desgaste da bola, desgaste do equipamento onde é feito o serteio, 
 não são considerados neste projeto.
